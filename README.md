@@ -2,7 +2,7 @@
 
 In this repo we use the power of CNN to predict whether someone has Covid or not on the basis of thier chest X-ray.CNN is used to achieve this task . 
 
-#####Training data : 
+### Training data
 there are 100 images belonging to 2 classes {covid,normal}
 
 random 20 training samples .
